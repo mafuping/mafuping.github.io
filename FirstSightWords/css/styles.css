@@ -648,6 +648,7 @@ input[type='checkbox'] {
     width: 113px;
 	height: 34px;
 	margin-bottom: 1px;
+	backface-visibility: hidden;
 	-webkit-backface-visibility: hidden;
 }
 
